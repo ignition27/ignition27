@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+🔭 I’m currently working on a game hub for browser games
+🌱 I’m currently learning how to use GitHub
+📫 How to reach me: admin@wilsoncloud.cc
+😄 Pronouns: He/Him/His
+⚡ Fun fact: I'm also an aspiring downhill mountain-bike racer
